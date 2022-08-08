@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Bon Appetit Group Redesign Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alaina H, Shade H, PJ H, Matthew T, Brandon W, Oscar H",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.7.0"
+  }
+}
