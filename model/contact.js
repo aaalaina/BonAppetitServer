@@ -3,13 +3,13 @@ const mongoose = require ("mongoose")
 const ContactSchema = new mongoose.Schema(
 {
     email: { type: String ,required:
-    true },
+    false },
     firstName: {type: String, required:
-    true},
+    false},
     lastName: { type: String, required:
-    true},
+    false},
     message: {type: String, required:
-    true},
+    false},
 
 
 },
